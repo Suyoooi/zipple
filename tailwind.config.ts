@@ -15,6 +15,7 @@ export default {
         main: "#3772F7",
         sub: "#FFE100",
         skyblue: "#AFC8FF",
+        error: "#FF4D00",
         text: {
           primary: "#222222",
           secondary: "#767676",
